@@ -1,6 +1,6 @@
 # SL Dashboard
 
-Fetches realtime data from trafiklab for SL train stations. (Bus, Metro, Ship and Tram are disabled).
+Fetches realtime data from [Trafiklab](https://www.trafiklab.se/api/sl-realtidsinformation-4) for SL train stations. (Bus, Metro, Ship and Tram are disabled).
 
 ## Usage
 
