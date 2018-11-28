@@ -30,7 +30,7 @@ class App extends Component {
    */
   update() {
     const apikey = process.env.REACT_APP_APIKEY;
-    const id = 9527;
+    const id = process.env.REACT_APP_STATION;
     const path = `?key=${apikey}&siteid=${id}&timewindow=60&bus=false&metro=false&tram=false&ship=false`;
 
     let url = '';

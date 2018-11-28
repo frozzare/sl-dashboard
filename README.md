@@ -6,7 +6,7 @@ Fetches realtime data from [Trafiklab](https://www.trafiklab.se/api/sl-realtidsi
 
 1. Clone repo
 2. Run `yarn`
-3. Run `REACT_APP_APIKEY=MY_API_KEY yarn start`
+3. Run `REACT_APP_APIKEY=MY_API_KEY REACT_APP_STATION=9527 yarn start`
 
 ## License
 
